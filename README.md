@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Live Site
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://chirilaandr.github.io/testimonials-grid-section/)
 
 
 ## Author
